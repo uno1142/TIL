@@ -15,6 +15,41 @@ STLはこんなのがあるよ！
 - max(a,b)　→a,bの中で最も大きい値を返す
 - swap(a,b)　→a,bの2つの引数の値を交換する
 
+### reverse関数
+
+配列の要素の並びを逆にできる。
+
+```
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    vector<int> vec = {1, 5, 3};
+    reverse(vec.begin(), vec.end()); // {3, 5, 1}
+
+    for (int i = 0; i < vec.size(); i++) {
+        cout << vec.at(i) << endl;
+    }
+}
+```
+次の形式で呼び出す  
+`reverse(配列変数.begin(),配列変数.end());`
+
+### sort関数
+
+データ列を順番に並び替える。sort関数だと小さい順。  
+
+次の形式で呼び出す
+`sort(配列変数.begin(),配列変数.end());`
+
+sort関数もreverse関数も返り値はない。  
+sort関数を使ってからreverse関数を使うと大きい順にソートできる！便利
+
+### 配列を渡す形式
+
+`関数名(配列変数.begin(), 配列変数.end())`  
+このパターンが多い。詳しくは[イテレータ](https://atcoder.jp/contests/apg4b/tasks/APG4b_ai)
+
 その他の関数はリンク先参照  
 - [STL入門](http://kaitei.net/cpp/stl-intro/)
 - [AtCoder(APEG4b)](https://atcoder.jp/contests/apg4b/tasks/APG4b_o)
