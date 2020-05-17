@@ -45,7 +45,7 @@ int main() {
 sort関数もreverse関数も返り値はない。  
 
 **sort関数を使ってからreverse関数を使うと大きい順にソートできる！**
-便利
+便利  
 
 
 
