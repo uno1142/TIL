@@ -11,9 +11,12 @@ STL(Standard Template Library)という。
 返り値（戻り値）・・・計算結果の値
 
 STLはこんなのがあるよ！   
-- min(a,b)　→a,bの中で最も小さい値を返す
-- max(a,b)　→a,bの中で最も大きい値を返す
-- swap(a,b)　→a,bの2つの引数の値を交換する
+- min(a,b)　→a,bの中で小さい値を返す
+- max(a,b)　→a,bの中で大きい値を返す
+- swap(a,b)　→a,bの2つの引数の値を交換する  
+
+※max,minは3つ以上の場合(A, B, C)  
+max( max(A,B), C)といった形にする必要がある。
 
 ### reverse関数
 
