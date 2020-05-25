@@ -42,7 +42,13 @@
   1が乗算なので除算  
 1. log<sub>a</sub>M<sup>k</sup> = k log<sub>a</sub>M   
   真数のk乗は外に出せる  
+  <br>
+具体例　  
 
+1→ log<sub>2</sub>(8 * 4) = log<sub>2</sub>32 = 5 = 3 + 2 = log<sub>2</sub>8 + log<sub>2</sub>4  
+2→ log<sub>2</sub> 8 / 4  = log<sub>2</sub>2 = 1 = 3 - 2 = log <sub>2</sub>8 - log<sub>2</sub>4  
+3→ log<sub>2</sub> 8 <sup>3</sup> = log<sub>2</sub>512 = 9 = 3 * 3 = 3 log<sub>2</sub>8
+ 
 
 
 
