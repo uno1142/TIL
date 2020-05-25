@@ -62,5 +62,5 @@ sort関数もreverse関数も返り値はない。
 - [AtCoder(APEG4b)](https://atcoder.jp/contests/apg4b/tasks/APG4b_o)
 - [C++マニアック](http://stlalv.la.coocan.jp/STL.html)
 
-追記：どうやらリンク先を見ているとコンテナやmapといった単語が多い。 
+追記：どうやらリンク先を見ているとコンテナや[map](https://github.com/uno1142/TIL/blob/master/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E3%81%A8%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0/%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0/%E9%80%A3%E6%83%B3%E9%85%8D%E5%88%97(%E3%83%8F%E3%83%83%E3%82%B7%E3%83%A5).md)といった単語が多い。 
 コンテナはhtml程度の知識しかないしmapは写経でよく見るので後々別記事に。
