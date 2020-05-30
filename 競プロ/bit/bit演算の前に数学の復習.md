@@ -112,3 +112,8 @@ log<sub>10</sub>Z
 →0,2,4,6,8,9,11,13,14,15
 →0 + 4 + 16 + 64 + 128 + ...(略)
 →60245
+
+
+## 暗記しちゃおう
+
+![img](https://www.uquest.co.jp/embedded/learning/img/2006/img_lec01_3.gif)
