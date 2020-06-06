@@ -1,3 +1,6 @@
+//深さ優先探索で点sからtに
+
+
 #include<bits/stdc++.h>
 using namespace std;
 using Graph = vector<vector<int>>;
