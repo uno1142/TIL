@@ -1,7 +1,7 @@
 # BootCampとは
 
 BootCampとはMacに付属している機能で、これを使うとMacOSとWindowsOSを切り替えて使うことができる！
-早速導入して今はWindowsからこの記事を書いてるよ。
+早速導入して今はWindowsからこの記事を書いてる。
 
 ## 仕組み
 
