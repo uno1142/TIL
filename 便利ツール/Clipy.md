@@ -15,3 +15,9 @@ int main(){
 
 って書かなくていいね！（早速使った）
 マジで快適
+
+## 忘れたとき用ショートカット集
+
+スニペット command + shift + B  
+履歴 command + control + V  
+メインメニュー command + shift + V
