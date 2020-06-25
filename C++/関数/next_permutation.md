@@ -45,6 +45,16 @@ int main(){
 ③条件式をnext_permitationで埋める。vector vなら(next_permitation(v.begin(),v.end()))など
 
 
+## perv_pemutation
+
+名前の通り、preview,つまり辞書順で前の配列に置き換える関数。next_permutationの逆をやりたいときに使える。
+
+
+## 計算量について
+
+next_permutaiton()の計算量は順列なのでO(n!)  
+目安としてだいたい10を超えるあたりから間に合わなくなる。逆にいうとNが8前後の時はこれを疑ってもいいかもしれない。
+
 ## 参考記事
 
 [next_permutationについて](https://qiita.com/siser/items/a91022071b24952d27d9)
