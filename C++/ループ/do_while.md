@@ -17,3 +17,6 @@ do{
 
 ※継続条件式の後ろのセミコロン忘れないように注意！
 
+## ぶっちゃけいつ使うの？
+
+[next_permutation](https://github.com/uno1142/TIL/blob/master/C%2B%2B/%E9%96%A2%E6%95%B0/next_permutation.md)
