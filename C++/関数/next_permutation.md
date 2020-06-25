@@ -43,3 +43,8 @@ int main(){
 ①初期の配列を用意する  
 ②do while文の処理を書く  
 ③条件式をnext_permitationで埋める。vector vなら(next_permitation(v.begin(),v.end()))など
+
+
+## 参考記事
+
+[next_permutationについて](https://qiita.com/siser/items/a91022071b24952d27d9)
