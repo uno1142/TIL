@@ -42,4 +42,4 @@ int main(){
 ```
 ①初期の配列を用意する  
 ②do while文の処理を書く  
-③条件式をnext_permitationで埋める(next_permitation(array.begin(),array.end()))など
+③条件式をnext_permitationで埋める。vector vなら(next_permitation(v.begin(),v.end()))など
